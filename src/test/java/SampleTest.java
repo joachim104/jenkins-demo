@@ -9,4 +9,11 @@ public class SampleTest {
 		int b = 2;
 		assertTrue(a + b == 3);
 	}
+	
+	@Test
+	public void simpleTestPass2() {
+		int a = 5;
+		int b = 5;
+		assertTrue(a + b == 10);
+	}
 }
