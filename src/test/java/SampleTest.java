@@ -12,7 +12,7 @@ public class SampleTest {
 	
 	@Test
 	public void simpleTestPass2() {
-		int a = 6;
+		int a = 5;
 		int b = 6;
 		assertTrue(a + b == 12);
 	}
